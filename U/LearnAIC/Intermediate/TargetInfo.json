@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LearnAIC",
+			"Path": "..\\Source\\LearnAIC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LearnAICEditor",
+			"Path": "..\\Source\\LearnAICEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

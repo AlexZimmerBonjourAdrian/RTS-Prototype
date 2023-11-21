@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\u\\learnaic\\intermediate\\build\\win64\\unrealeditor\\inc\\learnaic\\uht\\learnaiccharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\u\\learnaic\\intermediate\\build\\win64\\x64\\learnaiceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\u\\learnaic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\learnaic\\definitions.learnaic.h",
+            "g:\\u\\learnaic\\source\\learnaic\\learnaiccharacter.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "g:\\u\\learnaic\\intermediate\\build\\win64\\unrealeditor\\inc\\learnaic\\uht\\learnaiccharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

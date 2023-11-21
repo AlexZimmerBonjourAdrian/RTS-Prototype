@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LearnAIC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearnAIC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LearnAICEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LearnAIC">
+      <UniqueIdentifier>{678E4443-1696-3B7A-A79F-8D4C7B9B0F69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearnAIC\LearnAIC.Build.cs">
+      <Filter>Source\LearnAIC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LearnAIC\LearnAIC.cpp">
+      <Filter>Source\LearnAIC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnAIC\LearnAIC.h">
+      <Filter>Source\LearnAIC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnAIC\LearnAICCharacter.cpp">
+      <Filter>Source\LearnAIC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnAIC\LearnAICCharacter.h">
+      <Filter>Source\LearnAIC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnAIC\LearnAICGameMode.cpp">
+      <Filter>Source\LearnAIC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnAIC\LearnAICGameMode.h">
+      <Filter>Source\LearnAIC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearnAIC\LearnAICPlayerController.cpp">
+      <Filter>Source\LearnAIC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearnAIC\LearnAICPlayerController.h">
+      <Filter>Source\LearnAIC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

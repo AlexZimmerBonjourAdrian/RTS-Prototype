@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\u\\learnaic\\source\\learnaic\\learnaic.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\u\\learnaic\\intermediate\\build\\win64\\x64\\learnaiceditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\u\\learnaic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\learnaic\\definitions.learnaic.h",
+            "g:\\u\\learnaic\\source\\learnaic\\learnaic.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
