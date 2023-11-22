@@ -147,8 +147,14 @@
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_SpaceShip.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/NewRtsGameMode.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_CharacterSpaceShip.uasset",
-				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/Ai/Beheaviour/BT_Indle_Ship.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/Ai/Beheaviour/SpaceShip-Ai.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/BeheaviourTree/BlackBoard/BB_Enemy.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Character_SpaceShip_Enemy.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_diffuse_Mat.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_Lum_Mat.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_text_01_Mat.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_text_Mat.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/Ai/Beheaviour/BT_Indle_Ship.uasset",
 				"G:/U/LearnAICBPP/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
