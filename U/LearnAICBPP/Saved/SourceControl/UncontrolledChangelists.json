@@ -154,6 +154,15 @@
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_Lum_Mat.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_text_01_Mat.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Models/star-trek-akira-class/textures/Akira_text_Mat.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/NewWidgetBlueprint.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/Widnget.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Widnget_SpaceShip.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_TestWidget.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Space_Widget.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Space_Widget_Slider.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Damage_Interface.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/BP_Bullet.uasset",
+				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/TTPC_Damage_Interface.uasset",
 				"E:/Github/RTS-Prototype/U/LearnAICBPP/Content/SpaceGame-RTS/Blueprints/Units/Ai/Beheaviour/BT_Indle_Ship.uasset",
 				"G:/U/LearnAICBPP/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
